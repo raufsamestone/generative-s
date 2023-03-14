@@ -1,5 +1,8 @@
 # generative-s
 
+![generative-s](https://user-images.githubusercontent.com/34893128/225147855-bea9e698-f003-44d7-8ae4-95990e3df3f5.png)
+
+
 This is a web app that generates sound and art based on user input. The app uses the React framework for the user interface, Tone.js for generating sound, and P5.js for generating art.
 
 ## Installation
