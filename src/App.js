@@ -1,10 +1,10 @@
 import "./styles.css";
-import GenerativeDataArt from "../components/dataArt";
+import CursorNote from "../components/cursorNote";
 
 export default function App() {
   return (
     <div className="App">
-      <GenerativeDataArt />
+      <CursorNote />
     </div>
   );
 }
