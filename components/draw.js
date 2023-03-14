@@ -75,7 +75,8 @@ const Sketch = () => {
         onChange={(e) => setDisplayText(e.target.value)}
       />
 
-      <div ref={canvas} />
+      {/* <div ref={canvas} /> */}
+      <canvas ref={canvas} />
     </div>
   );
 };
