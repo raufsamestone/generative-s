@@ -21,7 +21,9 @@ The app displays a canvas and a button. The canvas generates random text based o
 ## User Input
 
 The user can change the canvas width and height using the range inputs. The canvas will update automatically as the user changes the values.
-Sound
+
+
+##Sound
 
 The app generates a sine wave sound using Tone.js. The pitch of the sound is determined by the user's mouse movement. Moving the mouse to the right increases the pitch, while moving it to the left decreases the pitch.
 
@@ -32,6 +34,7 @@ The canvas generates random text in different colors and sizes based on the user
 ## Contributing
 
 Contributions are welcome! If you find a bug or have an idea for an improvement, feel free to submit a pull request.
-License
+
+##License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
