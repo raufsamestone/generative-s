@@ -5,17 +5,11 @@ This is a web app that generates sound and art based on user input. The app uses
 ## Installation
 
 Clone the repository: 
-```
-git clone https://github.com/raufsamestone/generative-s.git
 
-```
+`git clone https://github.com/raufsamestone/generative-s.git`
 
 Install dependencies and start. 
-```
-yarn && yarn dev
-
-```
-    
+`yarn && yarn dev`
 
 ## Usage
 
