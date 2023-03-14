@@ -35,6 +35,6 @@ The canvas generates random text in different colors and sizes based on the user
 
 Contributions are welcome! If you find a bug or have an idea for an improvement, feel free to submit a pull request.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
